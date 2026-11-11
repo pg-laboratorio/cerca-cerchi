@@ -1,4 +1,4 @@
-# CerChi
+# Cerca-Cerchi
 
 Un gioco geografico quotidiano: trova la capitale segreta con la **trilaterazione**.
 Ogni capitale che proponi ti dice solo a che distanza si trova quella segreta; sulla mappa compare il cerchio corrispondente e con tre cerchi il bersaglio è inchiodato.
